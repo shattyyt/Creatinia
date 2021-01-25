@@ -11,7 +11,7 @@
 #Dungeon Settings
 [dungeon]
 	#If you dont like the fact that the dungeons contain lots of mob spawners, set this to true! Mobs will get spawned manually during the dungeon generation then. Note that this is a lot more performance demanding than enabling spawners. (Which also depends on the mob spawn rate)
-	no_spawners = false
+	no_spawners = true
 	#Set this to true if you want to prevent that the last layer of each dungeon will contain nether content.
 	no_nether_stuff = false
 	#This value defines how many mobs do get spawned manually during the generation. (if no_spawners = true, there is no effect otherwise)

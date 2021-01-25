@@ -524,7 +524,7 @@
 
 [world]
 	"Big Dungeon" = true
-	"Big Stone Clusters" = true
+	"Big Stone Clusters" = false
 	Biotite = true
 	"Blossom Trees" = true
 	"Cave Roots" = true
