@@ -1,0 +1,68 @@
+
+["Hostile Water Mobs"]
+
+	["Hostile Water Mobs"."Hostile Water Mobs - General"]
+		#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+		#Range: 0 ~ 2
+		debugLevel = 0
+
+	["Hostile Water Mobs"."Hostile Water Mobs - River Guardian"]
+		#riverGuardianPreysOnVillagerChildren = true
+		riverGuardianPreysOnVillagerChildren = true
+		#riverGuardianSpawnChance
+		#Range: 0 ~ 100
+		riverGuardianSpawnChance = 6
+		#riverGuardianSpawnCap
+		#Range: 1 ~ 100
+		riverGuardianSpawnCap = 37
+		#riverGuardianSoundRange
+		#Range: 1 ~ 24
+		riverGuardianSoundRange = 15
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Slippery Biter"]
+		#slipperyBiterSpawnChance
+		#Range: 1 ~ 100
+		slipperyBiterSpawnChance = 6
+		#slipperyBiterSpawnCap
+		#Range: 0 ~ 100
+		slipperyBiterSpawnCap = 21
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Gurty"]
+		#gurtySpawnChance
+		#Range: 0 ~ 100
+		gurtySpawnChance = 9
+		#gurtySpawnCap
+		#Range: 0 ~ 100
+		gurtySpawnCap = 21
+		#gurtyBaseHitPoints
+		#Range: 0 ~ 100
+		gurtyBaseHitPoints = 10
+		#gurtyBaseDefense
+		#Range: 2 ~ 10
+		gurtyBaseDefense = 2
+		#gurtyNestDistance
+		#Range: 2 ~ 15
+		gurtyNestDistance = 6
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Fish Spawn Boost"]
+		#codSpawnBoost
+		#Range: 0 ~ 100
+		codSpawnBoost = 15
+		#salmonSpawnBoost
+		#Range: 0 ~ 100
+		salmonSpawnBoost = 15
+		#squidSpawnBoost
+		#Range: 0 ~ 100
+		squidSpawnBoost = 10
+		#dolphinSpawnBoost
+		#Range: 0 ~ 100
+		dolphinSpawnBoost = 10
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Experimental Nether Spawn Fix"]
+		#zombiePiglinSpawnBoost 
+		#Range: 0 ~ 100
+		"zombifiedPiglinSpawnBoost " = 25
+		#ghastSpawnBoost 
+		#Range: 0 ~ 100
+		"ghastSpawnBoost " = 30
+
