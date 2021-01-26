@@ -1,1 +1,0 @@
-dir > list.txt
